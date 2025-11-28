@@ -1,0 +1,4 @@
+Type,Storage,Packaging,Temperature,Humidity,Age,Prediction,Timestamp
+milk,Fridge,Sealed,25,50,1,0,2025-11-28 16:26:46
+Dairy,Fridge,Sealed,5,50,1,1,2025-11-28 16:29:51
+bread,Fridge,Sealed,5,40,1,0,2025-11-28 16:30:07
